@@ -1,0 +1,55 @@
+body {
+	color: white;
+	background-color: #183F53;
+}
+
+.results {
+	font-size: 20px;
+}
+
+.friend-well {
+	font-size: 30px;
+}
+
+.news-header {
+	margin-top: 5px;
+	margin-bottom: 3px;
+	color: white;
+}
+
+hr {
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+.well {
+	color: #B5B4B2;
+}
+
+.offline {
+	color: red;
+}
+
+.online {
+	color: green;
+}
+
+.busy {
+	color: blue;
+}
+
+.away {
+	color: yellow;
+}
+
+.snooze {
+	color: pink;
+}
+
+.trade {
+	color: purple;
+}
+
+.play {
+	color: silver;
+}
